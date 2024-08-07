@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 429b9b1c7467cca40bbd15dc94fa0699
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverMenu: {instanceID: 0}
+  - heartsParent: {fileID: 1991521322995560981, guid: 9f720e79212b58348bfe5cec552d8d13, type: 3}
+  - heartPrefab: {fileID: 2012449455385638272, guid: 8c7037aac8668644fba84282b907360a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
