@@ -26,10 +26,8 @@ public class LevelExit : MonoBehaviour
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         int nextSceneIndex = currentSceneIndex + 1;
         
-        // Check if the next scene index is within bounds
         if (nextSceneIndex >= SceneManager.sceneCountInBuildSettings)
         {
-            // Handle the case where there is no next scene
             Debug.LogWarning("No next scene to load.");
             yield break;
         }
